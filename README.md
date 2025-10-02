@@ -8,7 +8,7 @@ Given the large codebase (~3000 lines), I focused on the most visible components
 2. **Code Quality**: Moved most inline styles to seperate css file
 
 ## Time Breakdown
-- Code check: 25 min
+- Code check: 15 min
 - Component extraction: 10 min
 - Implementation: 30 min
 - Upload & documentation: 5 min
